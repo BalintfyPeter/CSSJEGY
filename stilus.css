@@ -28,5 +28,12 @@ td{
 }
 .ttd{
     text-align: center;
+    background-color: #485808;
+    height: 60px;
+    margin: 2px;
+
+}
+#story{
+    color: white;
     
 }
