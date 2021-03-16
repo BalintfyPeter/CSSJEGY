@@ -1,0 +1,21 @@
+body{
+    background-color: #999999;
+    color: black;
+}
+a:link{
+    color: white;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: white;
+}
+a:active{
+    color: white;
+}
+table{
+    text-align: center;
+    position: absolute;
+    background-color: white;
+}
